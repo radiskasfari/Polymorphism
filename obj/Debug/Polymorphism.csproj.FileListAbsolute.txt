@@ -1,0 +1,6 @@
+D:\Matkul kuliah\Semester 2\pemrograman\Polymorphism\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+D:\Matkul kuliah\Semester 2\pemrograman\Polymorphism\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
+D:\Matkul kuliah\Semester 2\pemrograman\Polymorphism\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+D:\Matkul kuliah\Semester 2\pemrograman\Polymorphism\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+D:\Matkul kuliah\Semester 2\pemrograman\Polymorphism\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+D:\Matkul kuliah\Semester 2\pemrograman\Polymorphism\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
